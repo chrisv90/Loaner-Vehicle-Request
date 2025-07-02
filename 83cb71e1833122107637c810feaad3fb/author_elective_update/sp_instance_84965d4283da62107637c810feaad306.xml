@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>empty</glyph>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">c4965d4283da62107637c810feaad301</sp_column>
+        <sp_widget display_value="Announcements">94c300c7e777320075c2a117c2f6a9e7</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-24 04:37:18</sys_created_on>
+        <sys_id>84965d4283da62107637c810feaad306</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Announcements</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory " source="x_1024259_lva">83cb71e1833122107637c810feaad3fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory ">83cb71e1833122107637c810feaad3fb</sys_scope>
+        <sys_update_name>sp_instance_84965d4283da62107637c810feaad306</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-24 04:47:20</sys_updated_on>
+        <title>Announcements</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "Announcements",
+		"displayValue": "Announcements"
+	},
+	"glyph": {
+		"value": "empty",
+		"displayValue": ""
+	},
+	"type": {
+		"value": "",
+		"displayValue": ""
+	},
+	"paginate": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"max_records": {
+		"value": 5,
+		"displayValue": "5"
+	},
+	"view_all_page": {
+		"value": "ecc828d3e733320075c2a117c2f6a91f",
+		"displayValue": "announcements"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=84965d4283da62107637c810feaad306"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory ">83cb71e1833122107637c810feaad3fb</application>
+        <file_path/>
+        <instance_id>7660ab453b078a1ca36804e0b5e45a1a</instance_id>
+        <instance_name>dev277862</instance_name>
+        <name>sp_instance_84965d4283da62107637c810feaad306</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;empty&lt;/glyph&gt;&lt;id/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;c4965d4283da62107637c810feaad301&lt;/sp_column&gt;&lt;sp_widget display_value="Announcements"&gt;94c300c7e777320075c2a117c2f6a9e7&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-06-24 04:37:18&lt;/sys_created_on&gt;&lt;sys_id&gt;84965d4283da62107637c810feaad306&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Announcements&lt;/sys_name&gt;&lt;sys_package display_value="Loaner Vehicle Request and Inventory " source="x_1024259_lva"&gt;83cb71e1833122107637c810feaad3fb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Loaner Vehicle Request and Inventory "&gt;83cb71e1833122107637c810feaad3fb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_84965d4283da62107637c810feaad306&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-06-24 04:47:20&lt;/sys_updated_on&gt;&lt;title&gt;Announcements&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"title": {
+		"value": "Announcements",
+		"displayValue": "Announcements"
+	},
+	"glyph": {
+		"value": "empty",
+		"displayValue": ""
+	},
+	"type": {
+		"value": "",
+		"displayValue": ""
+	},
+	"paginate": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"max_records": {
+		"value": 5,
+		"displayValue": "5"
+	},
+	"view_all_page": {
+		"value": "ecc828d3e733320075c2a117c2f6a91f",
+		"displayValue": "announcements"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=84965d4283da62107637c810feaad306"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>435244962</payload_hash>
+        <record_name>Announcements</record_name>
+        <reverted_from/>
+        <source>344c3d25833122107637c810feaad32f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-24 04:47:20</sys_created_on>
+        <sys_id>7ad8990683da62107637c810feaad318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197a04314870000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-24 04:47:20</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>32d8990632da6210f4936e273c7a1d18</update_guid>
+        <update_guid_history>32d8990632da6210f4936e273c7a1d18:435244962,00d859062cda6210a256ba490741c539:917982819,36981506b0da6210ebcab4cb31a46fe8:435244962,c8965d422fda62107aecee0fdbe4d807:574228701</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Announcements">f6d8190683da62107637c810feaad33b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-24 04:47:20</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>2635eff5e8084f18ae338d2e3a30ae90</sys_id>
+        <sys_metadata>84965d4283da62107637c810feaad306</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Announcements</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory " source="x_1024259_lva">83cb71e1833122107637c810feaad3fb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory ">83cb71e1833122107637c810feaad3fb</sys_scope>
+        <sys_scope_delete display_value="">1bc3790fe7914fe085b3ed2715f80240</sys_scope_delete>
+        <sys_update_name>sp_instance_84965d4283da62107637c810feaad306</sys_update_name>
+        <sys_update_version display_value="sp_instance_84965d4283da62107637c810feaad306">7ad8990683da62107637c810feaad318</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-24 04:47:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
